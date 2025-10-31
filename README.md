@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Fayez Ali Shakil  
 
-<!--
-**alifayez-shakil/alifayez-shakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Student at Leading University**  
+💡 Passionate about **Java, Python, Cybersecurity, and Game Development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- **Languages:** Dart · Python · Java · SQL  
+- **Tools & Platforms:** Git · VS Code · Figma  
+- **Interests:** Cybersecurity · Game Design 
+
+---
+
+### 📍 Location
+Sylhet, Bangladesh  
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayez-ali-shakil-456a80187)
+[![Twitter/X](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fayez_shakil?s=21)
+
+---
+
+⭐ *"Code. Learn. Evolve."*
